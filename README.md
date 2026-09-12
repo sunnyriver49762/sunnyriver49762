@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey there
 
-<!--
-**sunnyriver49762/sunnyriver49762** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just a developer who likes building things and figuring stuff out along the way.
 
-Here are some ideas to get you started:
+### About me
+- Currently learning and practicing software development
+- Interested in backend, scripting, and small tools
+- Still exploring what I enjoy most
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech stack
+- Python
+- JavaScript / TypeScript
+- Git
+- Linux
+
+### Projects
+Nothing major yet — working on a few ideas. Check back later.
+
+---
+Always open to learning new things.
